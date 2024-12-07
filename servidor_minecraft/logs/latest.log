@@ -6094,3 +6094,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [07Dec2024 13:07:57.599] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10396ms or 207 ticks behind
 [07Dec2024 13:08:14.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AndreiiiiiXd lost connection: Disconnected
 [07Dec2024 13:08:14.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd left the game
+[07Dec2024 14:35:02.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Currently clearing the pokemon saved in the outbreaks. Any outbreaks in the world will spawn new pokemon or finish!
