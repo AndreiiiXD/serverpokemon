@@ -199,6 +199,7 @@
       "getting_wood": "2024-12-06 21:50:29 +0000",
       "acquire_hardware": "2024-12-06 21:28:10 +0000",
       "monster_hunter": "2024-12-06 21:27:42 +0000",
+      "do_you_want_to_trade": "2024-12-07 12:36:54 +0000",
       "spooky_skeleton": "2024-12-06 21:31:53 +0000",
       "time_to_strike": "2024-12-06 21:25:16 +0000",
       "not_chicken_mcnuggets": "2024-12-07 12:31:35 +0000",
@@ -212,6 +213,7 @@
       "which_came_first": "2024-12-07 12:21:48 +0000",
       "mining_root": "2024-12-06 21:24:43 +0000",
       "ew_ew_ew": "2024-12-06 21:27:42 +0000",
+      "kilometre_walk": "2024-12-07 12:36:54 +0000",
       "dead_dont_die": "2024-12-06 21:31:47 +0000",
       "diamonds": "2024-12-06 21:28:21 +0000",
       "eeuuwww": "2024-12-06 21:35:32 +0000",
@@ -222,6 +224,7 @@
       "ahoy": "2024-12-06 21:41:24 +0000",
       "the_sea_calls_you": "2024-12-06 21:31:25 +0000",
       "isnt_it_iron_pick": "2024-12-06 21:28:18 +0000",
+      "bacon": "2024-12-07 12:34:34 +0000",
       "torched": "2024-12-06 21:29:52 +0000",
       "i_dont_like_sand": "2024-12-06 21:22:39 +0000",
       "this_is_mine_now": "2024-12-06 21:33:59 +0000",
@@ -500,6 +503,7 @@
   },
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
+      "do_you_want_to_trade": "2024-12-07 12:36:54 +0000",
       "what_a_deal": "2024-12-07 12:31:40 +0000",
       "postmortal": "2024-12-06 21:23:05 +0000",
       "root": "2024-12-06 21:27:42 +0000"
@@ -513,7 +517,8 @@
       "darkness": "2024-12-06 21:40:38 +0000",
       "night_vision": "2024-12-07 01:25:52 +0000",
       "absorption": "2024-12-06 21:23:05 +0000",
-      "fire_resistance": "2024-12-06 21:23:05 +0000"
+      "fire_resistance": "2024-12-06 21:23:05 +0000",
+      "slowness": "2024-12-07 12:41:34 +0000"
     },
     "done": false
   },
@@ -581,6 +586,7 @@
   },
   "blazeandcave:bacap/animal_milestone": {
     "criteria": {
+      "bacon": "2024-12-07 12:34:34 +0000",
       "which_came_first": "2024-12-07 12:21:48 +0000",
       "wooly": "2024-12-06 21:48:45 +0000",
       "cow_tipper": "2024-12-06 21:48:20 +0000",
@@ -592,6 +598,7 @@
   },
   "blazeandcave:bacap/biomes_milestone": {
     "criteria": {
+      "kilometre_walk": "2024-12-07 12:36:54 +0000",
       "just_keep_swimming": "2024-12-06 21:24:09 +0000",
       "root": "2024-12-06 21:27:42 +0000",
       "the_sea_calls_you": "2024-12-06 21:31:25 +0000",
@@ -1680,7 +1687,8 @@
   "blazeandcave:adventure/raidin_master": {
     "criteria": {
       "mineshaft": "2024-12-06 21:33:58 +0000",
-      "shipwreck": "2024-12-06 21:41:24 +0000"
+      "shipwreck": "2024-12-06 21:41:24 +0000",
+      "village_plains": "2024-12-07 12:36:54 +0000"
     },
     "done": false
   },
@@ -2572,29 +2580,35 @@
     },
     "done": true
   },
-  "blazeandcave:adventure/traveller": {
-    "criteria": {
-      "plains": "2024-12-07 12:31:40 +0000"
-    },
-    "done": false
-  },
   "blazeandcave:mining/not_chicken_mcnuggets": {
     "criteria": {
       "iron_nugget": "2024-12-07 12:31:34 +0000"
     },
     "done": true
   },
-  "blazeandcave:challenges/stockbroker": {
-    "criteria": {
-      "librarian_plains": "2024-12-07 12:31:40 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-07 12:31:34 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/held/soothe_bell": {
+    "criteria": {
+      "has_nugget": "2024-12-07 12:31:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/traveller": {
+    "criteria": {
+      "plains": "2024-12-07 12:31:40 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/stockbroker": {
+    "criteria": {
+      "librarian_plains": "2024-12-07 12:31:40 +0000"
+    },
+    "done": false
   },
   "blazeandcave:adventure/businessman": {
     "criteria": {
@@ -2608,15 +2622,64 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/soothe_bell": {
-    "criteria": {
-      "has_nugget": "2024-12-07 12:31:34 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/trade": {
     "criteria": {
       "trade": "2024-12-07 12:31:40 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/bacon": {
+    "criteria": {
+      "pig": "2024-12-07 12:34:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/kilometre_walk": {
+    "criteria": {
+      "outer_neg_z": "2024-12-07 12:36:54 +0000",
+      "outer_neg_x": "2024-12-07 12:36:54 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/do_you_want_to_trade": {
+    "criteria": {
+      "village": "2024-12-07 12:36:54 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2024-12-07 12:40:41 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_leek": {
+    "criteria": {
+      "check_inv": "2024-12-07 12:42:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
+    "criteria": {
+      "has_leek": "2024-12-07 12:42:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_smoking": {
+    "criteria": {
+      "has_leek": "2024-12-07 12:42:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek": {
+    "criteria": {
+      "has_leek": "2024-12-07 12:42:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
+    "criteria": {
+      "has_leek": "2024-12-07 12:42:57 +0000"
     },
     "done": true
   },

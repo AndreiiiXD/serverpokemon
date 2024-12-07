@@ -80,6 +80,22 @@
             "discoveredTimestamp": 1733574779364,
             "caughtTimestamp": 1733574779364
           }
+        },
+        "marill": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1733575125791,
+            "caughtTimestamp": 1733575125791
+          }
+        },
+        "arcanine": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1733575241798,
+            "caughtTimestamp": 1733575241798
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -90,19 +106,21 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 5,
+    "totalBattleVictoryCount": 7,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 5,
+    "totalPvWBattleVictoryCount": 7,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
-      "water": 1,
+      "water": 2,
       "electric": 1,
-      "grass": 1
+      "grass": 1,
+      "fairy": 1,
+      "fire": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:spinarak": 1,

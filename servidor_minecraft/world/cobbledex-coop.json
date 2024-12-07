@@ -71,6 +71,22 @@
         "discoveredTimestamp": 1733574779366,
         "caughtTimestamp": 1733574779366
       }
+    },
+    "marill": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733575125792,
+        "caughtTimestamp": 1733575125792
+      }
+    },
+    "arcanine": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733575241799,
+        "caughtTimestamp": 1733575241799
+      }
     }
   }
 }
