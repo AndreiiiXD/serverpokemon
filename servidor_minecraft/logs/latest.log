@@ -6120,3 +6120,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [07Dec2024 01:41:33.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
 [07Dec2024 01:43:02.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AndreiiiiiXd lost connection: Disconnected
 [07Dec2024 01:43:02.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd left the game
+[07Dec2024 02:51:30.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Currently clearing the pokemon saved in the outbreaks. Any outbreaks in the world will spawn new pokemon or finish!
