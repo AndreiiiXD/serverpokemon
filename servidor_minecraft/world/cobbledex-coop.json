@@ -1,3 +1,52 @@
 {
-  "registers": {}
+  "registers": {
+    "quaxly": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733519657044,
+        "caughtTimestamp": 1733519657044
+      }
+    },
+    "quaxwell": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733521196190,
+        "caughtTimestamp": 1733521196190
+      }
+    },
+    "magikarp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733521395805,
+        "caughtTimestamp": 1733521395805
+      }
+    },
+    "mareep": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733521503249,
+        "caughtTimestamp": 1733521503249
+      }
+    },
+    "flaaffy": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733521533374,
+        "caughtTimestamp": 1733521533374
+      }
+    },
+    "ampharos": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1733522161237,
+        "caughtTimestamp": 1733522161237
+      }
+    }
+  }
 }
