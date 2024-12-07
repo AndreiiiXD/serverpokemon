@@ -6121,3 +6121,4 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [07Dec2024 01:43:02.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: AndreiiiiiXd lost connection: Disconnected
 [07Dec2024 01:43:02.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: AndreiiiiiXd left the game
 [07Dec2024 02:51:30.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Currently clearing the pokemon saved in the outbreaks. Any outbreaks in the world will spawn new pokemon or finish!
+[07Dec2024 04:21:30.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Currently clearing the pokemon saved in the outbreaks. Any outbreaks in the world will spawn new pokemon or finish!
