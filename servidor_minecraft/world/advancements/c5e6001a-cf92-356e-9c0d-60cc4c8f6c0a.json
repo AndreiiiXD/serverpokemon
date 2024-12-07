@@ -2442,5 +2442,71 @@
     },
     "done": true
   },
+  "megamons:recipes/misc/cut_banettite_from_raw_banettite_stonecutting": {
+    "criteria": {
+      "has_raw_banettite": "2024-12-07 01:26:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-12-07 01:27:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2024-12-07 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "megamons:megamons": {
+    "criteria": {
+      "has_crystal_geode_block": "2024-12-07 01:26:54 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice": {
+    "criteria": {
+      "has_the_recipe": "2024-12-07 01:26:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/icy_rock": {
+    "criteria": {
+      "has_stone": "2024-12-07 01:26:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2024-12-07 01:28:02 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/miracle_seed": {
+    "criteria": {
+      "has_leaf": "2024-12-07 01:27:38 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice_using_stone": {
+    "criteria": {
+      "has_ice": "2024-12-07 01:26:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2024-12-07 01:28:03 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/charcoal_stick": {
+    "criteria": {
+      "has_fire": "2024-12-07 01:27:41 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
