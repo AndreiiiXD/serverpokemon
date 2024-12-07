@@ -56,6 +56,30 @@
             "discoveredTimestamp": 1733522161236,
             "caughtTimestamp": 1733522161236
           }
+        },
+        "meganium": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1733574275016,
+            "caughtTimestamp": 1733574275016
+          }
+        },
+        "quaquaval": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1733574767291,
+            "caughtTimestamp": 1733574767291
+          }
+        },
+        "gyarados": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1733574779364,
+            "caughtTimestamp": 1733574779364
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -66,18 +90,19 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 2,
+    "totalCaptureCount": 3,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 4,
+    "totalEvolvedCount": 5,
+    "totalBattleVictoryCount": 5,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 4,
+    "totalPvWBattleVictoryCount": 5,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "water": 1,
-      "electric": 1
+      "electric": 1,
+      "grass": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:spinarak": 1,

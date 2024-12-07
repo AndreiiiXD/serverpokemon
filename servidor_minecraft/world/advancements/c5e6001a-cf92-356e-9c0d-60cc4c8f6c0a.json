@@ -201,6 +201,7 @@
       "monster_hunter": "2024-12-06 21:27:42 +0000",
       "spooky_skeleton": "2024-12-06 21:31:53 +0000",
       "time_to_strike": "2024-12-06 21:25:16 +0000",
+      "not_chicken_mcnuggets": "2024-12-07 12:31:35 +0000",
       "hot_topic": "2024-12-06 21:27:53 +0000",
       "benchmarking": "2024-12-06 21:22:38 +0000",
       "classic_pocket_edition_block": "2024-12-06 21:56:13 +0000",
@@ -208,6 +209,7 @@
       "fossil_fuel": "2024-12-06 21:26:41 +0000",
       "steals_on_wheels": "2024-12-06 21:36:49 +0000",
       "meet_the_flintstones": "2024-12-06 21:29:42 +0000",
+      "which_came_first": "2024-12-07 12:21:48 +0000",
       "mining_root": "2024-12-06 21:24:43 +0000",
       "ew_ew_ew": "2024-12-06 21:27:42 +0000",
       "dead_dont_die": "2024-12-06 21:31:47 +0000",
@@ -224,12 +226,14 @@
       "i_dont_like_sand": "2024-12-06 21:22:39 +0000",
       "this_is_mine_now": "2024-12-06 21:33:59 +0000",
       "heart_of_darkness": "2024-12-06 21:26:01 +0000",
+      "ultra_hardcore": "2024-12-07 12:21:34 +0000",
       "the_first_night": "2024-12-06 21:39:38 +0000",
       "diam_oh_wait_no": "2024-12-06 21:36:59 +0000",
       "wooly": "2024-12-06 21:48:45 +0000",
       "shriek_forever_after": "2024-12-06 21:40:38 +0000",
       "cow_tipper": "2024-12-06 21:48:20 +0000",
       "building_root": "2024-12-06 21:24:31 +0000",
+      "what_a_deal": "2024-12-07 12:31:40 +0000",
       "just_keep_swimming": "2024-12-06 21:24:09 +0000",
       "getting_an_upgrade": "2024-12-06 21:25:07 +0000",
       "iconic_merchandising_prop": "2024-12-06 21:55:27 +0000",
@@ -445,6 +449,7 @@
   },
   "blazeandcave:challenges/all_the_items": {
     "criteria": {
+      "egg": "2024-12-07 12:21:48 +0000",
       "beef": "2024-12-06 21:48:20 +0000",
       "slime_ball": "2024-12-06 21:47:42 +0000",
       "stick": "2024-12-06 21:24:40 +0000",
@@ -458,6 +463,7 @@
       "wheat_seeds": "2024-12-06 21:48:54 +0000",
       "mutton": "2024-12-06 21:48:44 +0000",
       "flint": "2024-12-06 21:29:42 +0000",
+      "emerald": "2024-12-07 12:31:40 +0000",
       "string": "2024-12-06 21:27:42 +0000",
       "cooked_mutton": "2024-12-06 21:23:26 +0000",
       "apple": "2024-12-06 21:51:14 +0000",
@@ -479,6 +485,7 @@
       "filled_map": "2024-12-06 21:41:53 +0000",
       "arrow": "2024-12-06 21:31:52 +0000",
       "porkchop": "2024-12-06 21:59:44 +0000",
+      "iron_nugget": "2024-12-07 12:31:34 +0000",
       "enchanted_book": "2024-12-06 21:30:46 +0000",
       "glow_berries": "2024-12-06 21:38:26 +0000",
       "coal": "2024-12-06 21:26:41 +0000",
@@ -493,6 +500,7 @@
   },
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
+      "what_a_deal": "2024-12-07 12:31:40 +0000",
       "postmortal": "2024-12-06 21:23:05 +0000",
       "root": "2024-12-06 21:27:42 +0000"
     },
@@ -566,12 +574,14 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_mutton": "2024-12-06 21:24:06 +0000"
+      "cooked_mutton": "2024-12-06 21:24:06 +0000",
+      "golden_apple": "2024-12-07 12:21:34 +0000"
     },
     "done": false
   },
   "blazeandcave:bacap/animal_milestone": {
     "criteria": {
+      "which_came_first": "2024-12-07 12:21:48 +0000",
       "wooly": "2024-12-06 21:48:45 +0000",
       "cow_tipper": "2024-12-06 21:48:20 +0000",
       "tickle_time": "2024-12-06 21:43:55 +0000",
@@ -696,6 +706,7 @@
       "fossil_fuel": "2024-12-06 21:26:41 +0000",
       "iconic_merchandising_prop": "2024-12-06 21:55:27 +0000",
       "diam_oh_wait_no": "2024-12-06 21:36:59 +0000",
+      "not_chicken_mcnuggets": "2024-12-07 12:31:35 +0000",
       "diamonds": "2024-12-06 21:28:21 +0000",
       "eeuuwww": "2024-12-06 21:35:32 +0000",
       "steals_on_wheels": "2024-12-06 21:36:49 +0000",
@@ -1696,7 +1707,8 @@
       "obtain_rindo_berry": "2024-12-06 21:34:41 +0000",
       "obtain_razz_berry": "2024-12-07 01:42:04 +0000",
       "obtain_oran_berry": "2024-12-06 21:59:45 +0000",
-      "obtain_cheri_berry": "2024-12-07 01:42:58 +0000"
+      "obtain_cheri_berry": "2024-12-07 01:42:58 +0000",
+      "obtain_wepear_berry": "2024-12-07 12:21:40 +0000"
     },
     "done": false
   },
@@ -1742,6 +1754,7 @@
     "criteria": {
       "luxury_ball": "2024-12-06 21:36:54 +0000",
       "quick_ball": "2024-12-06 21:38:23 +0000",
+      "great_ball": "2024-12-07 12:31:40 +0000",
       "timer_ball": "2024-12-06 21:36:52 +0000",
       "repeat_ball": "2024-12-06 21:38:24 +0000",
       "azure_ball": "2024-12-06 21:38:25 +0000",
@@ -1934,6 +1947,7 @@
   },
   "blazeandcave:bacap/farming_milestone": {
     "criteria": {
+      "ultra_hardcore": "2024-12-07 12:21:34 +0000",
       "kelp_me": "2024-12-06 21:43:08 +0000"
     },
     "done": false
@@ -2507,6 +2521,102 @@
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2024-12-07 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/ultra_hardcore": {
+    "criteria": {
+      "golden_apple": "2024-12-07 12:21:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/vegetarian": {
+    "criteria": {
+      "golden_apple": "2024-12-07 12:21:34 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:animal/which_came_first": {
+    "criteria": {
+      "egg": "2024-12-07 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-12-07 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-07 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-12-07 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-07 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2024-12-07 12:21:48 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/traveller": {
+    "criteria": {
+      "plains": "2024-12-07 12:31:40 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/not_chicken_mcnuggets": {
+    "criteria": {
+      "iron_nugget": "2024-12-07 12:31:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/stockbroker": {
+    "criteria": {
+      "librarian_plains": "2024-12-07 12:31:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-07 12:31:34 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/businessman": {
+    "criteria": {
+      "librarian": "2024-12-07 12:31:40 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-07 12:31:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/soothe_bell": {
+    "criteria": {
+      "has_nugget": "2024-12-07 12:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "trade": "2024-12-07 12:31:40 +0000"
     },
     "done": true
   },
