@@ -104,6 +104,14 @@
             "discoveredTimestamp": 1733617732510,
             "caughtTimestamp": 1733617732510
           }
+        },
+        "azumarill": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1733618899503,
+            "caughtTimestamp": 1733618899503
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -116,11 +124,11 @@
   "advancementData": {
     "totalCaptureCount": 6,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 11,
+    "totalEvolvedCount": 6,
+    "totalBattleVictoryCount": 15,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 8,
-    "totalPvNBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 9,
+    "totalPvNBattleVictoryCount": 6,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
@@ -133,7 +141,8 @@
     },
     "totalDefeatedCounts": {
       "cobblemon:spinarak": 1,
-      "cobblemon:lechonk": 1
+      "cobblemon:lechonk": 1,
+      "cobblemon:emolga": 1
     },
     "aspectsCollected": {}
   }

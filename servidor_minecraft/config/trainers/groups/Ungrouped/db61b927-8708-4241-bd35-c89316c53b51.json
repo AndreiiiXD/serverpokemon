@@ -1,0 +1,118 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:pelipper",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "cobblemon:calm",
+      "ability": "drizzle",
+      "moveset": [
+        "hydropump",
+        "hurricane",
+        "roost",
+        "mist"
+      ],
+      "ivs": {
+        "hp": 5,
+        "attack": 29,
+        "defence": 13,
+        "special_attack": 26,
+        "special_defence": 29,
+        "speed": 1
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:poliwhirl",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "cobblemon:quirky",
+      "ability": "waterabsorb",
+      "moveset": [
+        "doubleedge",
+        "bellydrum",
+        "mudbomb",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 20,
+        "attack": 12,
+        "defence": 8,
+        "special_attack": 11,
+        "special_defence": 7,
+        "speed": 13
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:omastar",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "cobblemon:relaxed",
+      "ability": "shellarmor",
+      "moveset": [
+        "hydropump",
+        "shellsmash",
+        "surf",
+        "rockblast"
+      ],
+      "ivs": {
+        "hp": 6,
+        "attack": 22,
+        "defence": 28,
+        "special_attack": 28,
+        "special_defence": 10,
+        "speed": 13
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:seaking",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "cobblemon:careful",
+      "ability": "swiftswim",
+      "moveset": [
+        "horndrill",
+        "megahorn",
+        "soak",
+        "waterfall"
+      ],
+      "ivs": {
+        "hp": 27,
+        "attack": 10,
+        "defence": 28,
+        "special_attack": 19,
+        "special_defence": 17,
+        "speed": 9
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

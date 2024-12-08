@@ -183,7 +183,9 @@
     "criteria": {
       "forest": "2024-12-06 21:23:18 +0000",
       "cold_ocean": "2024-12-06 21:31:24 +0000",
+      "dark_forest": "2024-12-08 00:45:09 +0000",
       "plains": "2024-12-06 21:25:44 +0000",
+      "old_growth_taiga": "2024-12-08 00:44:43 +0000",
       "taiga": "2024-12-08 00:26:19 +0000",
       "snowy_taiga": "2024-12-08 00:35:05 +0000",
       "beach": "2024-12-06 21:22:38 +0000",
@@ -263,8 +265,10 @@
   "blazeandcave:challenges/explorer_of_worlds": {
     "criteria": {
       "cold_ocean": "2024-12-06 21:31:24 +0000",
+      "dark_forest": "2024-12-08 00:45:09 +0000",
       "forest": "2024-12-06 21:23:18 +0000",
       "plains": "2024-12-06 21:25:44 +0000",
+      "old_growth_spruce_taiga": "2024-12-08 00:44:43 +0000",
       "taiga": "2024-12-08 00:26:19 +0000",
       "snowy_taiga": "2024-12-08 00:35:05 +0000",
       "beach": "2024-12-06 21:22:38 +0000",
@@ -550,8 +554,10 @@
   "blazeandcave:biomes/one_with_the_forest": {
     "criteria": {
       "forest": "2024-12-06 21:23:18 +0000",
+      "dark_forest": "2024-12-08 00:45:09 +0000",
       "taiga": "2024-12-08 00:26:19 +0000",
-      "plains": "2024-12-06 21:25:44 +0000"
+      "plains": "2024-12-06 21:25:44 +0000",
+      "old_growth_spruce_taiga": "2024-12-08 00:44:43 +0000"
     },
     "done": false
   },
@@ -1799,6 +1805,7 @@
       "poke_ball": "2024-12-08 00:18:27 +0000",
       "citrine_ball": "2024-12-08 00:20:50 +0000",
       "roseate_ball": "2024-12-08 00:16:06 +0000",
+      "friend_ball": "2024-12-08 00:42:40 +0000",
       "premier_ball": "2024-12-06 21:36:56 +0000"
     },
     "done": false
@@ -2820,6 +2827,12 @@
     },
     "done": true
   },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "friend_ball": "2024-12-08 00:42:40 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/balls/nest_ball": {
     "criteria": {
       "has_green_apricorn": "2024-12-08 00:18:28 +0000"
@@ -2877,6 +2890,12 @@
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2024-12-08 00:19:25 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/max_revive": {
+    "criteria": {
+      "has_revive": "2024-12-08 00:42:40 +0000"
     },
     "done": true
   },
@@ -3008,6 +3027,7 @@
   "cobblemon:brew_all": {
     "criteria": {
       "obtain_super_potion": "2024-12-08 00:19:21 +0000",
+      "obtain_burn_heal": "2024-12-08 00:42:40 +0000",
       "obtain_potion": "2024-12-08 00:18:45 +0000"
     },
     "done": false
@@ -3086,6 +3106,12 @@
     "criteria": {
       "has_white_apricorn": "2024-12-08 00:27:02 +0000",
       "has_red_apricorn": "2024-12-08 00:21:06 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2024-12-08 00:38:38 +0000"
     },
     "done": true
   },

@@ -1,0 +1,145 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:carracosta",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "cobblemon:rash",
+      "ability": "sturdy",
+      "moveset": [
+        "shellsmash",
+        "hydropump",
+        "raindance",
+        "aquatail"
+      ],
+      "ivs": {
+        "hp": 16,
+        "attack": 19,
+        "defence": 31,
+        "special_attack": 29,
+        "special_defence": 30,
+        "speed": 3
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:metagross",
+      "gender": "GENDERLESS",
+      "level": 85,
+      "nature": "cobblemon:brave",
+      "ability": "clearbody",
+      "moveset": [
+        "hyperbeam",
+        "agility",
+        "irondefense",
+        "meteormash"
+      ],
+      "ivs": {
+        "hp": 7,
+        "attack": 4,
+        "defence": 8,
+        "special_attack": 30,
+        "special_defence": 19,
+        "speed": 7
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "genderless"
+      ]
+    },
+    {
+      "species": "cobblemon:gyarados",
+      "gender": "MALE",
+      "level": 85,
+      "nature": "cobblemon:naughty",
+      "ability": "intimidate",
+      "moveset": [
+        "hyperbeam",
+        "thrash",
+        "hurricane",
+        "hydropump"
+      ],
+      "ivs": {
+        "hp": 6,
+        "attack": 2,
+        "defence": 6,
+        "special_attack": 17,
+        "special_defence": 25,
+        "speed": 27
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:jellicent",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "cobblemon:quiet",
+      "ability": "waterabsorb",
+      "moveset": [
+        "waterspout",
+        "destinybond",
+        "hydropump",
+        "whirlpool"
+      ],
+      "ivs": {
+        "hp": 16,
+        "attack": 22,
+        "defence": 7,
+        "special_attack": 3,
+        "special_defence": 28,
+        "speed": 18
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:samurott",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "cobblemon:lonely",
+      "ability": "torrent",
+      "moveset": [
+        "hydropump",
+        "swordsdance",
+        "retaliate",
+        "aquatail"
+      ],
+      "ivs": {
+        "hp": 25,
+        "attack": 6,
+        "defence": 10,
+        "special_attack": 15,
+        "special_defence": 16,
+        "speed": 24
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

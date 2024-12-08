@@ -8519,3 +8519,108 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [08Dec2024 00:40:06.772] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
 [08Dec2024 00:40:06.773] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [08Dec2024 00:40:06.775] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:40:23.098] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[08Dec2024 00:40:36.822] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:40:36.822] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:40:36.825] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:40:58.110] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[08Dec2024 00:41:06.871] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:41:06.872] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:41:06.874] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:41:36.922] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:41:36.922] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:41:36.924] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:41:45.080] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[08Dec2024 00:41:57.476] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[08Dec2024 00:42:06.972] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:42:06.972] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:42:06.973] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:42:37.022] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:42:37.022] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:42:37.025] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:42:40.530] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/trainerWins.json
+[08Dec2024 00:43:07.072] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:43:07.072] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:43:07.074] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:43:22.824] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2852ms or 57 ticks behind
+[08Dec2024 00:43:37.028] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 00:43:37.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 00:43:39.986] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:43:39.988] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:43:39.991] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:44:10.022] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:44:10.023] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:44:10.025] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:44:40.073] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:44:40.077] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:44:40.079] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:45:10.122] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:45:10.122] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:45:10.125] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:45:40.238] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:45:40.240] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:45:40.243] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:45:54.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[08Dec2024 00:46:10.221] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:46:10.222] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:46:10.224] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:46:10.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[08Dec2024 00:46:22.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Creative Mode]
+[08Dec2024 00:46:40.271] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:46:40.272] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:46:40.273] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:47:10.322] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:47:10.322] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:47:10.324] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:47:40.372] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:47:40.373] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:47:40.376] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:48:10.422] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:48:10.422] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:48:10.425] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:48:19.504] [Server thread/DEBUG] [Cobbledex/]: Saving 13 entries to /workspaces/serverpokemon/servidor_minecraft/./world/./cobbledex-coop.json
+[08Dec2024 00:48:37.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 00:48:37.036] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 00:48:40.472] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:48:40.472] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:48:40.475] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:49:10.524] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:49:10.525] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:49:10.528] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:49:19.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [AndreiiiiiXd: Set own game mode to Survival Mode]
+[08Dec2024 00:49:39.942] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/db61b927-8708-4241-bd35-c89316c53b51.json
+[08Dec2024 00:49:39.943] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/db61b927-8708-4241-bd35-c89316c53b51.json
+[08Dec2024 00:49:39.944] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/db61b927-8708-4241-bd35-c89316c53b51.json
+[08Dec2024 00:49:39.945] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/db61b927-8708-4241-bd35-c89316c53b51.json
+[08Dec2024 00:49:39.945] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/db61b927-8708-4241-bd35-c89316c53b51.json
+[08Dec2024 00:49:39.946] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/db61b927-8708-4241-bd35-c89316c53b51.json
+[08Dec2024 00:49:39.947] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/db61b927-8708-4241-bd35-c89316c53b51.json
+[08Dec2024 00:49:39.950] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/766aed2f-3f5c-49b3-ada7-63ef878efe7c.json
+[08Dec2024 00:49:39.950] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/766aed2f-3f5c-49b3-ada7-63ef878efe7c.json
+[08Dec2024 00:49:39.951] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/766aed2f-3f5c-49b3-ada7-63ef878efe7c.json
+[08Dec2024 00:49:39.952] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/766aed2f-3f5c-49b3-ada7-63ef878efe7c.json
+[08Dec2024 00:49:39.953] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/766aed2f-3f5c-49b3-ada7-63ef878efe7c.json
+[08Dec2024 00:49:39.954] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/766aed2f-3f5c-49b3-ada7-63ef878efe7c.json
+[08Dec2024 00:49:39.956] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/766aed2f-3f5c-49b3-ada7-63ef878efe7c.json
+[08Dec2024 00:49:39.957] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/766aed2f-3f5c-49b3-ada7-63ef878efe7c.json
+[08Dec2024 00:49:39.958] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b31cb893-e97f-4a2b-8190-c9949e5c2a7c.json
+[08Dec2024 00:49:39.959] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b31cb893-e97f-4a2b-8190-c9949e5c2a7c.json
+[08Dec2024 00:49:39.959] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b31cb893-e97f-4a2b-8190-c9949e5c2a7c.json
+[08Dec2024 00:49:39.960] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b31cb893-e97f-4a2b-8190-c9949e5c2a7c.json
+[08Dec2024 00:49:39.961] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b31cb893-e97f-4a2b-8190-c9949e5c2a7c.json
+[08Dec2024 00:49:39.962] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b31cb893-e97f-4a2b-8190-c9949e5c2a7c.json
+[08Dec2024 00:49:39.962] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b31cb893-e97f-4a2b-8190-c9949e5c2a7c.json
+[08Dec2024 00:49:39.963] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b31cb893-e97f-4a2b-8190-c9949e5c2a7c.json
+[08Dec2024 00:49:39.964] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b31cb893-e97f-4a2b-8190-c9949e5c2a7c.json
+[08Dec2024 00:49:39.965] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b31cb893-e97f-4a2b-8190-c9949e5c2a7c.json
+[08Dec2024 00:49:39.965] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b31cb893-e97f-4a2b-8190-c9949e5c2a7c.json
+[08Dec2024 00:49:39.966] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved config/trainers/groups/Ungrouped/b31cb893-e97f-4a2b-8190-c9949e5c2a7c.json
+[08Dec2024 00:49:40.195] [Server thread/INFO] [cobgyms/]: Successfully placed structure: cobgyms:gym_aquatic01 at 0,0,0
+[08Dec2024 00:49:40.231] [Server thread/INFO] [cobgyms/]: Gym initialised, took: 293ms
+[08Dec2024 00:49:40.948] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:49:40.949] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:49:40.950] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[08Dec2024 00:49:45.489] [Server thread/INFO] [com.selfdot.cobblemontrainers.libs.io.JsonFile/]: Saved trainers/timesLastBattled.json
+[08Dec2024 00:50:10.621] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[08Dec2024 00:50:10.622] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[08Dec2024 00:50:10.623] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
