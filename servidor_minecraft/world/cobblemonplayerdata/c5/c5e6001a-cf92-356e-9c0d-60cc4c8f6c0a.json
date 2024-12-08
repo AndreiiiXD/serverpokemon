@@ -96,6 +96,14 @@
             "discoveredTimestamp": 1733575241798,
             "caughtTimestamp": 1733575241798
           }
+        },
+        "axew": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1733617732510,
+            "caughtTimestamp": 1733617732510
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -106,13 +114,13 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 5,
+    "totalCaptureCount": 6,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 7,
+    "totalBattleVictoryCount": 11,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 7,
-    "totalPvNBattleVictoryCount": 0,
+    "totalPvWBattleVictoryCount": 8,
+    "totalPvNBattleVictoryCount": 3,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
@@ -120,7 +128,8 @@
       "electric": 1,
       "grass": 1,
       "fairy": 1,
-      "fire": 1
+      "fire": 1,
+      "dragon": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:spinarak": 1,

@@ -184,6 +184,8 @@
       "forest": "2024-12-06 21:23:18 +0000",
       "cold_ocean": "2024-12-06 21:31:24 +0000",
       "plains": "2024-12-06 21:25:44 +0000",
+      "taiga": "2024-12-08 00:26:19 +0000",
+      "snowy_taiga": "2024-12-08 00:35:05 +0000",
       "beach": "2024-12-06 21:22:38 +0000",
       "river": "2024-12-06 21:34:27 +0000"
     },
@@ -195,12 +197,15 @@
       "stone_age": "2024-12-06 21:24:57 +0000",
       "time_to_mine": "2024-12-06 21:24:43 +0000",
       "its_a_trap": "2024-12-06 21:57:47 +0000",
+      "ice_bucket_challenge": "2024-12-08 00:19:26 +0000",
       "time_to_chop": "2024-12-06 21:50:49 +0000",
+      "bake_bread": "2024-12-08 00:16:14 +0000",
       "getting_wood": "2024-12-06 21:50:29 +0000",
       "acquire_hardware": "2024-12-06 21:28:10 +0000",
       "monster_hunter": "2024-12-06 21:27:42 +0000",
       "do_you_want_to_trade": "2024-12-07 12:36:54 +0000",
       "spooky_skeleton": "2024-12-06 21:31:53 +0000",
+      "spring_in_your_step": "2024-12-08 00:20:56 +0000",
       "time_to_strike": "2024-12-06 21:25:16 +0000",
       "not_chicken_mcnuggets": "2024-12-07 12:31:35 +0000",
       "hot_topic": "2024-12-06 21:27:53 +0000",
@@ -222,6 +227,7 @@
       "tickle_time": "2024-12-06 21:43:55 +0000",
       "statistics_root": "2024-12-06 21:28:21 +0000",
       "ahoy": "2024-12-06 21:41:24 +0000",
+      "ladder_climbers_inc": "2024-12-08 00:20:07 +0000",
       "the_sea_calls_you": "2024-12-06 21:31:25 +0000",
       "isnt_it_iron_pick": "2024-12-06 21:28:18 +0000",
       "bacon": "2024-12-07 12:34:34 +0000",
@@ -238,6 +244,7 @@
       "building_root": "2024-12-06 21:24:31 +0000",
       "what_a_deal": "2024-12-07 12:31:40 +0000",
       "just_keep_swimming": "2024-12-06 21:24:09 +0000",
+      "gold_rush": "2024-12-08 00:16:13 +0000",
       "getting_an_upgrade": "2024-12-06 21:25:07 +0000",
       "iconic_merchandising_prop": "2024-12-06 21:55:27 +0000",
       "sweet_dreams": "2024-12-06 21:57:24 +0000",
@@ -245,6 +252,7 @@
       "biomes_root": "2024-12-06 21:27:42 +0000",
       "bacap_root": "2024-12-06 21:22:39 +0000",
       "weaponry_root": "2024-12-06 21:25:16 +0000",
+      "under_pressure": "2024-12-08 00:18:09 +0000",
       "tuff_stuff": "2024-12-06 21:34:38 +0000",
       "kelp_me": "2024-12-06 21:43:08 +0000",
       "adventure_root": "2024-12-06 21:27:42 +0000",
@@ -257,6 +265,8 @@
       "cold_ocean": "2024-12-06 21:31:24 +0000",
       "forest": "2024-12-06 21:23:18 +0000",
       "plains": "2024-12-06 21:25:44 +0000",
+      "taiga": "2024-12-08 00:26:19 +0000",
+      "snowy_taiga": "2024-12-08 00:35:05 +0000",
       "beach": "2024-12-06 21:22:38 +0000",
       "river": "2024-12-06 21:34:27 +0000"
     },
@@ -376,6 +386,7 @@
     "criteria": {
       "sand": "2024-12-06 21:22:39 +0000",
       "cobweb": "2024-12-06 21:35:32 +0000",
+      "spruce_sapling": "2024-12-08 00:26:45 +0000",
       "stonecutter": "2024-12-06 21:56:13 +0000",
       "oak_log": "2024-12-06 21:50:29 +0000",
       "white_wool": "2024-12-06 21:48:44 +0000",
@@ -390,6 +401,8 @@
       "oak_sapling": "2024-12-06 21:24:35 +0000",
       "white_bed": "2024-12-06 21:57:22 +0000",
       "andesite": "2024-12-06 21:29:08 +0000",
+      "spruce_log": "2024-12-08 00:26:39 +0000",
+      "obsidian": "2024-12-08 00:19:25 +0000",
       "crafting_table": "2024-12-06 21:24:31 +0000",
       "tuff": "2024-12-06 21:34:38 +0000",
       "birch_sapling": "2024-12-06 21:51:24 +0000",
@@ -410,7 +423,8 @@
       "its_a_trap": "2024-12-06 21:57:47 +0000",
       "torched": "2024-12-06 21:29:52 +0000",
       "i_dont_like_sand": "2024-12-06 21:22:39 +0000",
-      "root": "2024-12-06 21:24:31 +0000"
+      "root": "2024-12-06 21:24:31 +0000",
+      "ladder_climbers_inc": "2024-12-08 00:20:07 +0000"
     },
     "done": false
   },
@@ -455,6 +469,7 @@
       "egg": "2024-12-07 12:21:48 +0000",
       "beef": "2024-12-06 21:48:20 +0000",
       "slime_ball": "2024-12-06 21:47:42 +0000",
+      "rabbit": "2024-12-08 00:26:57 +0000",
       "stick": "2024-12-06 21:24:40 +0000",
       "stone_sword": "2024-12-06 21:25:16 +0000",
       "iron_boots": "2024-12-06 21:31:02 +0000",
@@ -463,6 +478,7 @@
       "iron_leggings": "2024-12-06 21:29:27 +0000",
       "kelp": "2024-12-06 21:43:08 +0000",
       "iron_axe": "2024-12-06 21:50:49 +0000",
+      "gold_ingot": "2024-12-08 00:16:12 +0000",
       "wheat_seeds": "2024-12-06 21:48:54 +0000",
       "mutton": "2024-12-06 21:48:44 +0000",
       "flint": "2024-12-06 21:29:42 +0000",
@@ -480,15 +496,18 @@
       "nautilus_shell": "2024-12-06 21:41:24 +0000",
       "totem_of_undying": "2024-12-06 21:22:55 +0000",
       "iron_ingot": "2024-12-06 21:28:10 +0000",
+      "potato": "2024-12-08 00:17:15 +0000",
       "lapis_lazuli": "2024-12-06 21:36:59 +0000",
       "poisonous_potato": "2024-12-06 21:42:06 +0000",
       "golden_apple": "2024-12-06 21:38:25 +0000",
+      "bread": "2024-12-08 00:16:14 +0000",
       "rotten_flesh": "2024-12-06 21:31:47 +0000",
       "raw_iron": "2024-12-06 21:26:15 +0000",
       "filled_map": "2024-12-06 21:41:53 +0000",
       "arrow": "2024-12-06 21:31:52 +0000",
       "porkchop": "2024-12-06 21:59:44 +0000",
       "iron_nugget": "2024-12-07 12:31:34 +0000",
+      "rabbit_hide": "2024-12-08 00:26:57 +0000",
       "enchanted_book": "2024-12-06 21:30:46 +0000",
       "glow_berries": "2024-12-06 21:38:26 +0000",
       "coal": "2024-12-06 21:26:41 +0000",
@@ -531,6 +550,7 @@
   "blazeandcave:biomes/one_with_the_forest": {
     "criteria": {
       "forest": "2024-12-06 21:23:18 +0000",
+      "taiga": "2024-12-08 00:26:19 +0000",
       "plains": "2024-12-06 21:25:44 +0000"
     },
     "done": false
@@ -709,6 +729,7 @@
       "suit_up": "2024-12-06 21:29:27 +0000",
       "stone_age": "2024-12-06 21:24:57 +0000",
       "isnt_it_iron_pick": "2024-12-06 21:28:18 +0000",
+      "gold_rush": "2024-12-08 00:16:13 +0000",
       "getting_an_upgrade": "2024-12-06 21:25:07 +0000",
       "fossil_fuel": "2024-12-06 21:26:41 +0000",
       "iconic_merchandising_prop": "2024-12-06 21:55:27 +0000",
@@ -718,6 +739,7 @@
       "eeuuwww": "2024-12-06 21:35:32 +0000",
       "steals_on_wheels": "2024-12-06 21:36:49 +0000",
       "meet_the_flintstones": "2024-12-06 21:29:42 +0000",
+      "ice_bucket_challenge": "2024-12-08 00:19:26 +0000",
       "tuff_stuff": "2024-12-06 21:34:38 +0000",
       "shriek_forever_after": "2024-12-06 21:40:38 +0000",
       "acquire_hardware": "2024-12-06 21:28:10 +0000",
@@ -1511,6 +1533,7 @@
   },
   "blazeandcave:bacap/statistics_milestone": {
     "criteria": {
+      "spring_in_your_step": "2024-12-08 00:20:56 +0000",
       "the_first_night": "2024-12-06 21:39:38 +0000",
       "root": "2024-12-06 21:28:21 +0000"
     },
@@ -1712,6 +1735,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_persim_berry": "2024-12-08 00:17:21 +0000",
       "obtain_rindo_berry": "2024-12-06 21:34:41 +0000",
       "obtain_razz_berry": "2024-12-07 01:42:04 +0000",
       "obtain_oran_berry": "2024-12-06 21:59:45 +0000",
@@ -1753,6 +1777,7 @@
   "blazeandcave:challenges/i_am_loot": {
     "criteria": {
       "abandoned_mineshaft": "2024-12-06 21:36:49 +0000",
+      "village_weaponsmith": "2024-12-08 00:16:04 +0000",
       "shipwreck_map": "2024-12-06 21:41:51 +0000",
       "shipwreck_supply": "2024-12-06 21:41:58 +0000"
     },
@@ -1763,11 +1788,17 @@
       "luxury_ball": "2024-12-06 21:36:54 +0000",
       "quick_ball": "2024-12-06 21:38:23 +0000",
       "great_ball": "2024-12-07 12:31:40 +0000",
+      "dusk_ball": "2024-12-08 00:19:10 +0000",
       "timer_ball": "2024-12-06 21:36:52 +0000",
       "repeat_ball": "2024-12-06 21:38:24 +0000",
       "azure_ball": "2024-12-06 21:38:25 +0000",
       "dive_ball": "2024-12-06 21:37:04 +0000",
+      "verdant_ball": "2024-12-08 00:17:18 +0000",
       "ultra_ball": "2024-12-06 21:42:00 +0000",
+      "slate_ball": "2024-12-08 00:16:07 +0000",
+      "poke_ball": "2024-12-08 00:18:27 +0000",
+      "citrine_ball": "2024-12-08 00:20:50 +0000",
+      "roseate_ball": "2024-12-08 00:16:06 +0000",
       "premier_ball": "2024-12-06 21:36:56 +0000"
     },
     "done": false
@@ -1780,10 +1811,15 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
+      "roseate_ball": "2024-12-08 00:16:06 +0000",
+      "slate_ball": "2024-12-08 00:16:07 +0000",
+      "poke_ball": "2024-12-08 00:18:27 +0000",
       "premier_ball": "2024-12-06 21:36:56 +0000",
-      "azure_ball": "2024-12-06 21:38:25 +0000"
+      "azure_ball": "2024-12-06 21:38:25 +0000",
+      "citrine_ball": "2024-12-08 00:20:50 +0000",
+      "verdant_ball": "2024-12-08 00:17:18 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
@@ -1956,7 +1992,8 @@
   "blazeandcave:bacap/farming_milestone": {
     "criteria": {
       "ultra_hardcore": "2024-12-07 12:21:34 +0000",
-      "kelp_me": "2024-12-06 21:43:08 +0000"
+      "kelp_me": "2024-12-06 21:43:08 +0000",
+      "bake_bread": "2024-12-08 00:16:14 +0000"
     },
     "done": false
   },
@@ -2216,7 +2253,8 @@
   },
   "blazeandcave:building/yay_i_got_my_wood": {
     "criteria": {
-      "oak_log": "2024-12-06 21:50:29 +0000"
+      "oak_log": "2024-12-06 21:50:29 +0000",
+      "spruce_log": "2024-12-08 00:26:39 +0000"
     },
     "done": false
   },
@@ -2384,13 +2422,16 @@
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
+      "has_blue_apricorn": "2024-12-08 00:16:09 +0000",
       "has_black_apricorn": "2024-12-06 22:00:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
-      "has_black_apricorn": "2024-12-06 22:00:06 +0000"
+      "has_black_apricorn": "2024-12-06 22:00:06 +0000",
+      "has_red_apricorn": "2024-12-08 00:21:06 +0000",
+      "has_pink_apricorn": "2024-12-08 00:16:09 +0000"
     },
     "done": false
   },
@@ -2414,21 +2455,25 @@
   },
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
-      "has_black_apricorn": "2024-12-06 22:00:06 +0000"
+      "has_black_apricorn": "2024-12-06 22:00:06 +0000",
+      "has_red_apricorn": "2024-12-08 00:21:06 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
-      "has_black_apricorn": "2024-12-06 22:00:06 +0000"
+      "has_blue_apricorn": "2024-12-08 00:16:09 +0000",
+      "has_black_apricorn": "2024-12-06 22:00:06 +0000",
+      "has_white_apricorn": "2024-12-08 00:27:02 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/dusk_ball": {
     "criteria": {
-      "has_black_apricorn": "2024-12-06 22:00:06 +0000"
+      "has_black_apricorn": "2024-12-06 22:00:06 +0000",
+      "has_green_apricorn": "2024-12-08 00:18:28 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/ultra_ball": {
     "criteria": {
@@ -2438,21 +2483,26 @@
   },
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
-      "has_black_apricorn": "2024-12-06 22:00:06 +0000"
+      "has_blue_apricorn": "2024-12-08 00:16:09 +0000",
+      "has_black_apricorn": "2024-12-06 22:00:06 +0000",
+      "has_white_apricorn": "2024-12-08 00:27:02 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
-      "has_black_apricorn": "2024-12-06 22:00:06 +0000"
+      "has_black_apricorn": "2024-12-06 22:00:06 +0000",
+      "has_red_apricorn": "2024-12-08 00:21:06 +0000"
     },
     "done": false
   },
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
-      "has_black_apricorn": "2024-12-06 22:00:06 +0000"
+      "has_black_apricorn": "2024-12-06 22:00:06 +0000",
+      "has_white_apricorn": "2024-12-08 00:27:02 +0000",
+      "has_red_apricorn": "2024-12-08 00:21:06 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/blocks/apricorn_wood": {
     "criteria": {
@@ -2680,6 +2730,392 @@
   "cobblemon:recipes/consumables/roasted_leek_by_campfire": {
     "criteria": {
       "has_leek": "2024-12-07 12:42:57 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/redstone_milestone": {
+    "criteria": {
+      "under_pressure": "2024-12-08 00:18:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/dive_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-08 00:16:09 +0000",
+      "has_white_apricorn": "2024-12-08 00:27:02 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/premier_ball": {
+    "criteria": {
+      "has_white_apricorn": "2024-12-08 00:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/dream_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-08 00:16:09 +0000",
+      "has_red_apricorn": "2024-12-08 00:21:06 +0000",
+      "has_pink_apricorn": "2024-12-08 00:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2024-12-08 00:26:57 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/bake_bread": {
+    "criteria": {
+      "bread": "2024-12-08 00:16:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2024-12-08 00:26:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/nest_ball": {
+    "criteria": {
+      "has_green_apricorn": "2024-12-08 00:18:28 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/under_pressure": {
+    "criteria": {
+      "polished_blackstone_pressure_plate": "2024-12-08 00:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:brew_potion": {
+    "criteria": {
+      "check_inv": "2024-12-08 00:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-08 00:26:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/gilded_chests": {
+    "criteria": {
+      "has_gold": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/pasture": {
+    "criteria": {
+      "has_pc": "2024-12-08 00:19:30 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/quick_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-08 00:16:09 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-08 00:19:25 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/azure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-08 00:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-08 00:27:02 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/lure_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-08 00:16:09 +0000",
+      "has_green_apricorn": "2024-12-08 00:18:28 +0000",
+      "has_red_apricorn": "2024-12-08 00:21:06 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/poke_ball": {
+    "criteria": {
+      "has_red_apricorn": "2024-12-08 00:21:06 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/heal_ball": {
+    "criteria": {
+      "has_white_apricorn": "2024-12-08 00:27:02 +0000",
+      "has_pink_apricorn": "2024-12-08 00:16:09 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-08 00:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-08 00:17:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-08 00:17:15 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/gold_rush": {
+    "criteria": {
+      "gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2024-12-08 00:17:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/love_ball": {
+    "criteria": {
+      "has_white_apricorn": "2024-12-08 00:27:02 +0000",
+      "has_pink_apricorn": "2024-12-08 00:16:09 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/spruce_lee": {
+    "criteria": {
+      "spruce_log": "2024-12-08 00:26:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2024-12-08 00:26:57 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/green_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-08 00:18:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2024-12-08 00:27:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-08 00:26:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/safari_ball": {
+    "criteria": {
+      "has_green_apricorn": "2024-12-08 00:18:28 +0000",
+      "has_white_apricorn": "2024-12-08 00:27:02 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:brew_all": {
+    "criteria": {
+      "obtain_super_potion": "2024-12-08 00:19:21 +0000",
+      "obtain_potion": "2024-12-08 00:18:45 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2024-12-08 00:16:09 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-08 00:21:06 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/fast_ball": {
+    "criteria": {
+      "has_white_apricorn": "2024-12-08 00:27:02 +0000",
+      "has_red_apricorn": "2024-12-08 00:21:06 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-08 00:26:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/friend_ball": {
+    "criteria": {
+      "has_green_apricorn": "2024-12-08 00:18:28 +0000",
+      "has_red_apricorn": "2024-12-08 00:21:06 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/great_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2024-12-08 00:16:09 +0000",
+      "has_red_apricorn": "2024-12-08 00:21:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-08 00:17:15 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/park_ball": {
+    "criteria": {
+      "has_green_apricorn": "2024-12-08 00:18:28 +0000",
+      "has_red_apricorn": "2024-12-08 00:21:06 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/verdant_ball": {
+    "criteria": {
+      "has_green_apricorn": "2024-12-08 00:18:28 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/ladder_climbers_inc": {
+    "criteria": {
+      "enter_ladder": "2024-12-08 00:20:06 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/cold_feet": {
+    "criteria": {
+      "snowy_taiga": "2024-12-08 00:35:05 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/sport_ball": {
+    "criteria": {
+      "has_white_apricorn": "2024-12-08 00:27:02 +0000",
+      "has_red_apricorn": "2024-12-08 00:21:06 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:statistics/spring_in_your_step": {
+    "criteria": {
+      "trigger": "2024-12-08 00:20:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-08 00:19:25 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2024-12-08 00:16:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-08 00:16:12 +0000"
     },
     "done": true
   },

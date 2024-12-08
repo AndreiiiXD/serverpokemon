@@ -1,0 +1,63 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:tropius",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "cobblemon:quiet",
+      "ability": "chlorophyll",
+      "moveset": [
+        "razorleaf",
+        "leer",
+        "leafstorm",
+        "gust"
+      ],
+      "ivs": {
+        "hp": 1,
+        "attack": 2,
+        "defence": 9,
+        "special_attack": 14,
+        "special_defence": 28,
+        "speed": 3
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    },
+    {
+      "species": "cobblemon:cottonee",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "cobblemon:hardy",
+      "ability": "infiltrator",
+      "moveset": [
+        "fairywind",
+        "helpinghand",
+        "absorb"
+      ],
+      "ivs": {
+        "hp": 13,
+        "attack": 16,
+        "defence": 31,
+        "special_attack": 23,
+        "special_defence": 17,
+        "speed": 6
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}

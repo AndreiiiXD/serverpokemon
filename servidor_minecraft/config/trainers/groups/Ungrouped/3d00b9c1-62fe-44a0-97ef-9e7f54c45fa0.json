@@ -1,0 +1,88 @@
+{
+  "team": [
+    {
+      "species": "cobblemon:bunnelby",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "cobblemon:mild",
+      "ability": "cheekpouch",
+      "moveset": [
+        "tackle",
+        "mudslap",
+        "leer",
+        "agility"
+      ],
+      "ivs": {
+        "hp": 24,
+        "defence": 26,
+        "special_attack": 5,
+        "special_defence": 24,
+        "speed": 23
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:sizzlipede",
+      "gender": "FEMALE",
+      "level": 5,
+      "nature": "cobblemon:brave",
+      "ability": "flashfire",
+      "moveset": [
+        "wrap",
+        "smokescreen",
+        "ember"
+      ],
+      "ivs": {
+        "hp": 27,
+        "attack": 22,
+        "special_attack": 5,
+        "special_defence": 4,
+        "speed": 25
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "female"
+      ]
+    },
+    {
+      "species": "cobblemon:sandile",
+      "gender": "MALE",
+      "level": 5,
+      "nature": "cobblemon:lax",
+      "ability": "intimidate",
+      "moveset": [
+        "sandattack",
+        "rage",
+        "powertrip",
+        "leer"
+      ],
+      "ivs": {
+        "hp": 6,
+        "attack": 13,
+        "defence": 4,
+        "special_attack": 11,
+        "special_defence": 22,
+        "speed": 5
+      },
+      "evs": {},
+      "shiny": false,
+      "heldItem": "minecraft:air",
+      "aspects": [
+        "male"
+      ]
+    }
+  ],
+  "winCommand": "",
+  "lossCommand": "cobgyms whiteout_helper_command %player%",
+  "canOnlyBeatOnce": true,
+  "cooldownSeconds": 0,
+  "partyMaximumLevel": 100,
+  "defeatRequiredTrainers": []
+}
