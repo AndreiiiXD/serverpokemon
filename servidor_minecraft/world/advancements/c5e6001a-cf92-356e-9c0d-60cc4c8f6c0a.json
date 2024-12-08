@@ -409,6 +409,7 @@
       "obsidian": "2024-12-08 00:19:25 +0000",
       "crafting_table": "2024-12-06 21:24:31 +0000",
       "tuff": "2024-12-06 21:34:38 +0000",
+      "stripped_jungle_wood": "2024-12-08 00:49:13 +0000",
       "birch_sapling": "2024-12-06 21:51:24 +0000",
       "oak_planks": "2024-12-06 21:24:30 +0000"
     },
@@ -498,6 +499,7 @@
       "iron_sword": "2024-12-06 21:30:16 +0000",
       "leather": "2024-12-06 21:48:20 +0000",
       "nautilus_shell": "2024-12-06 21:41:24 +0000",
+      "glass_bottle": "2024-12-08 00:51:14 +0000",
       "totem_of_undying": "2024-12-06 21:22:55 +0000",
       "iron_ingot": "2024-12-06 21:28:10 +0000",
       "potato": "2024-12-08 00:17:15 +0000",
@@ -2923,6 +2925,12 @@
     },
     "done": true
   },
+  "blazeandcave:building/the_jungler": {
+    "criteria": {
+      "stripped_jungle_wood": "2024-12-08 00:49:13 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
       "has_blue_apricorn": "2024-12-08 00:16:09 +0000",
@@ -2953,6 +2961,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-08 00:17:15 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:use_revive": {
+    "criteria": {
+      "use_max_revive": "2024-12-08 00:55:11 +0000"
     },
     "done": true
   },
@@ -3054,6 +3068,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2024-12-08 00:26:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-12-08 00:49:13 +0000"
     },
     "done": true
   },
